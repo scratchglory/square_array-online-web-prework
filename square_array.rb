@@ -6,7 +6,7 @@
 
 
 def square_array(array)
-  arr = []
-  array.each { |i| arr << i **2 } #with each element, takes the value, "shovels"/
-  arr
+  arr = [}  # Needs an empty array to insert new numbers
+  array.each { |i| arr << i **2 } #with each element, takes the value, "shovels"
+  arr #prints [1, 4, 9] 
 end
